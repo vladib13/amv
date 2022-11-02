@@ -1,0 +1,8 @@
+{
+  "name": "AMV",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9abe1d88"
+}
